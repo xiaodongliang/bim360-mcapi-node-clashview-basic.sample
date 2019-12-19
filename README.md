@@ -1,3 +1,7 @@
+
+**Note:  this repository has been posted to [https://github.com/Autodesk-Forge/forge-bim360-clashview](https://github.com/Autodesk-Forge/forge-bim360-clashview). 
+Please check latest version there.**
+
 # BIM 360 Model Coordination: Clash View Basic Sample
 
 [![node](https://img.shields.io/badge/nodejs-v10+-yellow.svg)](https://nodejs.org)
